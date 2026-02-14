@@ -101,6 +101,6 @@ function changeLanguage() {
     // Update success message
     const successMessage = document.getElementById("success-message");
    
-    successMessage.textContent = "yeeeeeaaaaaahhhh";
+    successMessage.textContent = "yeeeeeaaaaaahhhh, Happppyyy valentine's dayyyy";
     
 }
